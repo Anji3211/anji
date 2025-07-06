@@ -1,2 +1,2 @@
-# anji
-this is my first repo
+# anji-demo
+this is my first repository
